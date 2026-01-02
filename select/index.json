@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "僕にピアノは弾けないけれど",
+  "base_artist": "夢追翔",
+  "createdAt": "2026-01-02T05:31:24.047264Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕にピアノは弾けないけれど",
+      "artist": "夢追翔",
+      "has_synced": false,
+      "path": "select/pl_01_僕にピアノは弾けないけれど_夢追翔.txt"
+    }
+  ]
+}
